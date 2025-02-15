@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
     <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </div>
+</div>
 
   ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -25,5 +26,3 @@
 👉 **Logging Mechanisms**: For better debugging and monitoring.
 
 👉 **Email Reminders**: Automating smart email reminders with workflows using Upstash.
-
-and many more, including code architecture and reusability
